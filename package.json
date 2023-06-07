@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev:backend": "cd backend && yarn start:dev",
+    "start:backend": "cd backend && yarn start",
+    "start:frontend": "cd frontend && yarn start"
+  }
+}

@@ -1,0 +1,25 @@
+ .menu {
+    transition: all 275ms ease;
+    cursor: pointer;
+}
+ .menu span {
+    display: block;
+    width: 22px;
+    height: 4px;
+    background: #bebfc4;
+    margin-bottom: 2px;
+    border-radius: 1px;
+    transition: all 275ms ease;
+}
+ .menu.active {
+    transform: rotate(-45deg);
+}
+ .menu.active .bar1 {
+    transform: rotate(0deg) translateY(6px);
+}
+ .menu.active .bar2 {
+    opacity: 0;
+}
+ .menu.active .bar3 {
+    transform: rotate(-90deg) translateX(5px);
+}

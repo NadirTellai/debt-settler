@@ -1,0 +1,26 @@
+.graph{
+    border: #303030 1px solid;
+    background-color: #e5e6e7;
+}
+
+.link{
+    stroke-width: 2px;
+}
+
+.node{
+    stroke: #25274d;
+    stroke-width: 3px;
+}
+
+.ant-tabs-tab{
+    width: 50% !important;
+}
+
+.ant-tabs-tab-btn{
+    text-align: center !important;
+    width: 100% !important;
+}
+
+.ant-tabs-nav-list {
+    width: 90% !important;
+}

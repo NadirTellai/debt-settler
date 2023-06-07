@@ -1,0 +1,35 @@
+.input-title {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    color: #25274C;
+}
+.auth-container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+    padding-top: 40px;
+}
+@media screen and (max-width: 1024px) {
+    .auth-container{
+        width: 90%;
+    }
+}
+
+.login-register-container{
+    padding: 15px 10px;
+    background-color: #dddcdc;
+    color: black;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.login-register-link{
+    text-decoration: underline;
+    text-underline: #25274d;
+    margin-left: 5px;
+    color: #25274d;
+    cursor: pointer;
+}
