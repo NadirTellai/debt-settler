@@ -4,7 +4,7 @@ Debt settler is an app that helps groups of friends settle multiple debts effici
 
 #### [Try it now](https://debt-settler.nadir-tellai.com/)
 
-#### [How does it work?](https://debt-settler.nadir-tellai.com/how-does-it-works)
+#### [How does it work?](https://debt-settler.nadir-tellai.com/how-does-it-work)
 
 ## Technologies used
 
